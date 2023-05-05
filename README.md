@@ -76,7 +76,7 @@ From childhood, I dreamed about becoming a software engineer. I was always fasci
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zheroin&column=8)](https://github-profile-trophy.vercel.app/?username=zheroin&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zheroin&column=4)](https://github-profile-trophy.vercel.app/?username=zheroin&column=4)
 
 <hr>
 
