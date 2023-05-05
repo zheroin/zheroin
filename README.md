@@ -72,7 +72,7 @@ From childhood, I dreamed about becoming a software engineer. I was always fasci
 
 <hr>
 
-<a href="https://app.daily.dev/Freedom"><img align="right" src="https://api.daily.dev/devcards/05f1f99bbc924468a278a1ba2d914209.png?r=2kn" width="400" alt="civil. dev's Dev Card"/></a></a>
+<a href="https://app.daily.dev/Freedom"><img align="right"  src="https://api.daily.dev/devcards/05f1f99bbc924468a278a1ba2d914209.png?r=2kn" width="300" alt="civil. dev's Dev Card"/></a></a>
 
 ## 🏆 GitHub Trophies
 
