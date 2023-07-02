@@ -1,4 +1,4 @@
-## [Happily Software Engineer!](https://portfolio-zheroindev.vercel.app/)
+## [Happily Software Engineer!](https://fulldev410.vercel.app/)
 
 From childhood, I dreamed about becoming a software engineer. I was always fascinated by the power and potential of technology, and I wanted to be a part of creating and shaping it. I pursued this passion through my education, studying computer science and software engineering in college. After graduation, I began my career in the industry, working with companies to develop innovative software solutions. Today, I am proud to be a software engineer, using my skills and expertise to contribute to the advancement of technology and the betterment of our world.
 
@@ -72,11 +72,11 @@ From childhood, I dreamed about becoming a software engineer. I was always fasci
 
 <hr>
 
-<a href="https://app.daily.dev/Freedom"><img align="right"  src="https://api.daily.dev/devcards/05f1f99bbc924468a278a1ba2d914209.png?r=2kn" width="300" alt="civil. dev's Dev Card"/></a></a>
+<a href="https://app.daily.dev/"><img align="right"  src="https://api.daily.dev/devcards/05f1f99bbc924468a278a1ba2d914209.png?r=2kn" width="300" alt="civil. dev's Dev Card"/></a></a>
 
 ## 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamlee410&layout=compact&theme=algolia&column=4" alt="Cozy guy" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fulldev410&layout=compact&theme=algolia&column=4" alt="Cozy guy" /></a>
 
 <hr>
 
